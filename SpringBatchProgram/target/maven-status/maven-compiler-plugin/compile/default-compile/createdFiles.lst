@@ -1,0 +1,9 @@
+com\example\demo\SpringBatchProgramApplication.class
+com\example\demo\model\PersonStatus.class
+com\example\demo\controller\ApplicationController.class
+com\example\demo\dao\PersonStatusDaoImpl.class
+com\example\demo\service\PersonStatusService.class
+com\example\demo\service\PersonStatusServiceImpl.class
+com\example\demo\model\Address.class
+com\example\demo\dao\PersonStatusDao.class
+com\example\demo\model\Person.class
